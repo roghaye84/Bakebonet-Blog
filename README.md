@@ -1,25 +1,25 @@
-#🍰 Bakebonet – Baking Blog
+##🍰 Bakebonet – Baking Blog
 
 A clean, modern, and responsive baking blog showcasing sweets, desserts, and handmade recipes — built with HTML and CSS. Perfect for demonstrating front-end design skills, responsive layouts, and creative UI.
 
 
 ---
 
-#🌟 Live Demo
+##🌟 Live Demo
 
 👉 [View Live Demo](https://roghaye84.github.io/Bakebonet-Blog/)
 
 
 ---
 
-#🖼️ Preview
+##🖼️ Preview
 
 ![Portfolio Preview](https://github.com/roghaye84/Bakebonet-Blog/blob/main/assest/bakebonet.jpeg)
 
 
 ---
 
-#✨ Features
+##✨ Features
 
 ⚡ Fully responsive design for desktop, tablet, and mobile
 
@@ -35,7 +35,7 @@ A clean, modern, and responsive baking blog showcasing sweets, desserts, and han
 
 ---
 
-#🛠️ Technologies Used
+##🛠️ Technologies Used
 
 HTML5
 
@@ -49,7 +49,7 @@ Font Awesome for icons
 
 ---
 
-#🚀 How to Run Locally
+##🚀 How to Run Locally
 
 1. Clone the repository:
 
